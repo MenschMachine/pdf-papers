@@ -449,7 +449,7 @@
       </usage-info>
     </font>
   </font-registry>
-  <page index="0">
+  <page index="0" width="841.885986328125" height="1190.5699462890625" rotation="0">
     <path id="PATH_000001">
       <painting-operator>
         <type>FILL_EVENODD</type>
@@ -21488,7 +21488,7 @@
       </elements>
     </clipping-context>
   </page>
-  <page index="1">
+  <page index="1" width="841.885986328125" height="1190.5699462890625" rotation="0">
     <path id="PATH_000748">
       <painting-operator>
         <type>FILL_EVENODD</type>
@@ -57892,7 +57892,7 @@
       </elements>
     </clipping-context>
   </page>
-  <page index="2">
+  <page index="2" width="841.885986328125" height="1190.5699462890625" rotation="0">
     <path id="PATH_001815">
       <painting-operator>
         <type>FILL_EVENODD</type>

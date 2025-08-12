@@ -353,7 +353,7 @@
       </usage-info>
     </font>
   </font-registry>
-  <page index="0">
+  <page index="0" width="1190.5699462890625" height="841.885986328125" rotation="0">
     <path id="PATH_000001">
       <painting-operator>
         <type>FILL_EVENODD</type>
@@ -33502,7 +33502,7 @@
       </elements>
     </clipping-context>
   </page>
-  <page index="1">
+  <page index="1" width="1190.5699462890625" height="841.885986328125" rotation="0">
     <path id="PATH_001055">
       <painting-operator>
         <type>FILL_EVENODD</type>

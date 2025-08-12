@@ -481,7 +481,7 @@
       </usage-info>
     </font>
   </font-registry>
-  <page index="0">
+  <page index="0" width="1190.5699462890625" height="841.885986328125" rotation="0">
     <text id="TEXT_000001">
       <content>PDF </content>
       <position x="59.48569869995117" y="792.6857299804688" />
@@ -61438,7 +61438,7 @@
       </elements>
     </clipping-context>
   </page>
-  <page index="1">
+  <page index="1" width="1190.5699462890625" height="841.885986328125" rotation="0">
     <text id="TEXT_000610">
       <content>PDF </content>
       <position x="59.48569869995117" y="792.6857299804688" />
